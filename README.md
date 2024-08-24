@@ -37,19 +37,19 @@ This year's work extendins the capabilities to create a more powerful and user-f
 ## 📦 Deliverables
 1. **Syntax Sweetening Framework**
 
-Developed a new syntax allowing web app creators to define component-based static sites in a single source file
-Implemented parsing of .agml files to generate React functional components
+- Developed a new syntax allowing web app creators to define component-based static sites in a single source file
+- Implemented parsing of .agml files to generate React functional components
 
 2. **Build Pipeline Enhancement**
 
-Modified the existing build process to accommodate customizations from syntax sweetened declaration files
-Implemented efficient integration of customizations at appropriate build stages
+- Modified the existing build process to accommodate customizations from syntax sweetened declaration files
+- Implemented efficient integration of customizations at appropriate build stages
 
 3. **Component Creator Tooling**
 
-Created a system to abstract away complexities of data handling for component creators
-Implemented functionality for component creators to define data directly in syntax sweetened declaration files
-Developed tooling to simplify the integration of dynamic data into static sites
+- Created a system to abstract away complexities of data handling for component creators
+- Implemented functionality for component creators to define data directly in syntax sweetened declaration files
+- Developed tooling to simplify the integration of dynamic data into static sites
 
 4. **Customization and Flexibility Improvements**
 
