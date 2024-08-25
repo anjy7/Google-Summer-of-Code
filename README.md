@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-<code> <a href="#-project-overview">Project Overview</a>&nbsp;&nbsp;&nbsp; <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp; <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp; <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp; <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp; <a href="#-links">Links</a>
+<code> <a href="#-project-overview">Project Overview</a>&nbsp;&nbsp;&nbsp; <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp; <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp; <a href="#-overcoming-challenges-and-breaking-limits">Challenges</a>&nbsp;&nbsp;&nbsp; <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp; <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;  <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp; <a href="#-connect-with-me">Links</a>
 </code>
 </p>
 
@@ -66,7 +66,7 @@ Implemented features to allow easy modification of layout, colors, and component
 
 ### Upcoming Feature:
 
-## 🚀 Contributions
+</div>
 
 ## 🦾 Overcoming Challenges and breaking limits
 
@@ -102,6 +102,16 @@ By prototyping early and iterating quickly, I was able to provide clear demonstr
 
 </div>
 
+## 🚀 Contributions
+
+<div align="center">
+
+| PR Link   | Description  | Status | 
+| :-----------: | :------------------------------------:| :------:|
+| [Link](https://github.com/RocketChat/Apps.Notion/pull/2) | <b> This major PR consolidates all the final changes and features implemented during the project, which underwent continuous and significant transformations over the course of development.  |  <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>|
+
+</div>
+    
 ## ❤️ Support
 Learned something new today? Reciprocate the love and ⭐ this repo for good karma.
     
@@ -125,12 +135,12 @@ My journey as a software engineer began with an insatiable fascination for techn
 | **Student** | Nabhag Motivaras |
 |:--------------------|:-------------------|
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
-| **Project** | []() |
+| **Project** | [Google Summer of Code Community Hub 2024](https://summerofcode.withgoogle.com/programs/2024/projects/8wEyeSVD) |
 | **GitHub** | [@anjy7](https://github.com/anjy7) |
 | **LinkedIn** | [Anjaneya Gupta](https://www.linkedin.com/in/anjaneya-gupta/) |
 | **Email** | <a href="mailto:anjyofficial@gmail.com">anjyofficial@gmail.com</a> |
 | **Rocket.Chat** | [anjaneya.gupta](https://open.rocket.chat/direct/anjaneya.gupta) |
-| **Project Github Repository** | []() |
+| **Project Github Repository** | [GSoC-Community-Hub](https://github.com/RocketChat/GSoC-Community-Hub) |
        
 </div>
 
