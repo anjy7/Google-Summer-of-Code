@@ -1,4 +1,3 @@
-## ⭐ GSoC Community Hub 2024
 <div align="center">
 <a href="https://summerofcode.withgoogle.com/projects/#6521788818784256"><img src="https://i.imgur.com/pgkUceb.png" width="650" alt="google-summer-of-code"></a>
 <br>
@@ -15,8 +14,8 @@
 <br>
 <br>
 
-## ✨ Project Overview
-The Google Summer of Code Community Hub project for Rocket.Chat represents a significant leap forward in fostering open-source collaboration and community engagement.
+## ⭐ Project Overview
+The `Google Summer of Code Community Hub` project for Rocket.Chat represents a significant leap forward in fostering open-source collaboration and community engagement.
 At its core, the project focused on two pivotal areas:
 
 `Syntax Sweetening:` This involved developing an innovative approach to server-side customization and configurability. By introducing HTML-tag-like notation into component layout files, we simplified the process of creating and maintaining community portals. This enhancement allows for easier generation of layouts through WYSIWYG (What You See Is What You Get) IDE tools, making the platform more accessible to developers of all skill levels.
