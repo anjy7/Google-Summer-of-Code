@@ -118,9 +118,9 @@ Learned something new today? Reciprocate the love and ⭐ this repo for good kar
 ## 🙌🏼 Mentors
 I extend my sincere gratitude to my mentors for their invaluable guidance and support throughout this journey. Their expertise and encouragement were instrumental in overcoming challenges and pushing the boundaries of what we could achieve 🙏 
 
-- **Sing Li** - [GitHub](https://github.com/](https://github.com/Sing-Li)). [LinkedIn](https://www.linkedin.com/in/sing-li-119716139/)
+- **Sing Li** - [GitHub](https://github.com/Sing-Li). [LinkedIn](https://www.linkedin.com/in/sing-li-119716139/)
 
-- **Palanikannan M** - [GitHub](https://github.com/). [LinkedIn](https://www.linkedin.com/in/)
+- **Palanikannan M** - [GitHub](https://github.com/Palanikannan1437). [LinkedIn](https://in.linkedin.com/in/palanikannan-m-021822200)
   
 ## 👤 About Me
 I'm a Computer Science student passionate about full-stack development, open-source contribution, and deep learning. What sets me apart is my strong problem-solving skills and my knack for finding creative solutions to complex challenges. I'9m a curious and inquisitive individual, always pushing the boundaries of what's possible and eager to collaborate on impactful projects.
