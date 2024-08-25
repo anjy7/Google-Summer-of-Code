@@ -108,7 +108,7 @@ By prototyping early and iterating quickly, I was able to provide clear demonstr
 
 | PR Link   | Description  | Status | 
 | :-----------: | :------------------------------------:| :------:|
-| [Link](https://github.com/RocketChat/Apps.Notion/pull/2) | <b> This major PR consolidates all the final changes and features implemented during the project, which underwent continuous and significant transformations over the course of development.  |  <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>|
+| [Link](https://github.com/RocketChat/GSoC-Community-Hub/pull/40) | <b> This major PR consolidates all the final changes and features implemented during the project, which underwent continuous and significant transformations over the course of development.  |  <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>|
 
 </div>
     
