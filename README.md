@@ -52,7 +52,7 @@ This year's work extendins the capabilities to create a more powerful and user-f
 
 4. **Customization and Flexibility Improvements**
 
-Enhanced the ability for open-source organizations to create unique and personalized community portals
+- Enhanced the ability for open-source organizations to create unique and personalized community portals
 Implemented features to allow easy modification of layout, colors, and components to match brand aesthetics and functional requirements
 
 
