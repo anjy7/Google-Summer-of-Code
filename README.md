@@ -132,7 +132,7 @@ My journey as a software engineer began with an insatiable fascination for techn
 ## 💬 Connect With Me
 <div align="center">
 
-| **Student** | Nabhag Motivaras |
+| **Student** | Anjaneya Gupta |
 |:--------------------|:-------------------|
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
 | **Project** | [Google Summer of Code Community Hub 2024](https://summerofcode.withgoogle.com/programs/2024/projects/8wEyeSVD) |
