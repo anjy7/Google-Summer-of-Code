@@ -87,7 +87,7 @@ Implemented features to allow easy modification of layout, colors, and component
 
 - Creating a dynamic data-fetching solution that worked with both JSON and CMS data presented challenges. We pondered over multiple approaches to ensure consistency between the two data sources and explored different methods, such as checking build numbers or using a flag during build-time. Prototyping various solutions helped us refine our approach and ensure consistency between data sources, leading to a more reliable and flexible system.
 
-### 5. Bootstrap vs. Tailwind: Choosing a Flexible Front-End Framework
+### 5. Bootstrap vs. Tailwind: Choosing a Flexible Framework
 
 - In our front-end development, Bootstrap proved superior to Tailwind for our use case. Bootstrap offers responsive, pre-built components and allows easy CSS overrides through its syntax, reducing code complexity and streamlining development. This efficiency and simplicity made it ideal for our project. I created a `Proof of Concept (POC)` to demonstrate Bootstrap's advantages, which ultimately solidified our decision.
 
