@@ -123,7 +123,7 @@ I extend my sincere gratitude to my mentors for their invaluable guidance and su
 - **Palanikannan M** - [GitHub](https://github.com/Palanikannan1437). [LinkedIn](https://in.linkedin.com/in/palanikannan-m-021822200)
   
 ## 👤 About Me
-I'm a Computer Science student passionate about full-stack development, open-source contribution, and deep learning. What sets me apart is my strong problem-solving skills and my knack for finding creative solutions to complex challenges. I'9m a curious and inquisitive individual, always pushing the boundaries of what's possible and eager to collaborate on impactful projects.
+I'm a Computer Science student passionate about full-stack development, open-source contribution, and deep learning. What sets me apart is my strong problem-solving skills and my knack for finding creative solutions to complex challenges. I'm a curious and inquisitive individual, always pushing the boundaries of what's possible and eager to collaborate on impactful projects.
 
 ## 🛤️ My Journey
 
