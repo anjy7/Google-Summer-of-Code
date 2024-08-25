@@ -15,22 +15,15 @@
 <br>
 
 ## ⭐ Project Overview
-The `Google Summer of Code Community Hub` project for Rocket.Chat represents a significant leap forward in fostering open-source collaboration and community engagement.
-At its core, the project focused on two pivotal areas:
+The `Google Summer of Code Community Hub` project for Rocket.Chat is centered around developing a full-stack web application designed to streamline collaboration for open-source communities. Built using a custom component framework, the project emphasizes two key areas of innovation:
 
-`Syntax Sweetening:` This involved developing an innovative approach to server-side customization and configurability. By introducing HTML-tag-like notation into component layout files, we simplified the process of creating and maintaining community portals. This enhancement allows for easier generation of layouts through WYSIWYG (What You See Is What You Get) IDE tools, making the platform more accessible to developers of all skill levels.
+`Syntax Sweetening:` By introducing HTML-tag-like notation into component layout files, this approach simplifies server-side customization. The result is a more intuitive development process, allowing for easy layout generation through WYSIWYG (What You See Is What You Get) IDE tools. This makes the platform accessible to developers of varying skill levels.
 
-`Component Initialization Data Definition and Maintenance:` We tackled the complex challenge of managing component data, creating a robust system that streamlines how data is defined, initialized, and maintained across the platform. This solution enhances the flexibility and scalability of the Community Hub, allowing it to adapt to the diverse needs of various open-source communities.
+`Data Definition and Maintenance:` A robust system was implemented to manage component data efficiently, ensuring flexibility and scalability across the platform. This allows the Community Hub to meet the diverse needs of different open-source communities.
 
-The project's overarching goal was to create a more intuitive, customizable, and efficient platform that serves as a central hub for open-source organizations participating in Google Summer of Code. By leveraging advanced technologies and methodologies, we aimed to:
+The overarching goal is to create a highly customizable, scalable platform that enhances collaboration and communication within open-source communities
 
-- Simplify the development process for community builders
--  Enhance collaboration and communication among open-source teams
-- Provide a scalable solution that can grow with communities of all sizes
-- Offer a highly customizable platform that can be tailored to each organization's unique needs
-- Improve the overall user experience for both developers and community members
-
-This year's work extends the capabilities to create a more powerful and user-friendly environment. The enhancements implemented during this GSoC project not only improve the current functionality but also pave the way for future innovations in open-source community management and collaboration.
+This year's work builds on this framework, making it significantly easier for community builders to customize their GSoC hubs.
 
 
 ## 📦 Deliverables
