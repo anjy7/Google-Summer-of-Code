@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-<code> <a href="#-project-overview">Project Overview</a>&nbsp;&nbsp;&nbsp; <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp; <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp; <a href="#-overcoming-challenges-and-breaking-limits">Challenges</a>&nbsp;&nbsp;&nbsp; <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp; <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;  <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp; <a href="#-connect-with-me">Links</a>
+<code> <a href="#-project-overview">Overview</a>&nbsp;&nbsp;&nbsp; <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp; <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp; <a href="#-overcoming-challenges-and-breaking-limits">Challenges</a>&nbsp;&nbsp;&nbsp; <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp; <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;  <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp; <a href="#-connect-with-me">Links</a>
 </code>
 </p>
 
