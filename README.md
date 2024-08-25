@@ -60,41 +60,6 @@ Implemented features to allow easy modification of layout, colors, and component
 ### Upcoming Feature:
 
 </div>
-
-## 🦾 Overcoming Challenges and breaking limits
-
-### 1. Payload CMS vs. Strapi: Opting for Seamless Integration
-
-- We chose `Payload CMS` over Strapi due to its code-first approach and seamless integration with Next.js. Unlike Strapi, which required running in a separate Docker container, Payload CMS allowed us to run everything within our existing Next.js environment.
-- Payload CMS also stood out for its active and helpful community, which played a crucial role during the initial stages. I interacted directly with the core maintainers to implement Payload CMS 3.0 alpha, customizing it to our specific needs with build-time scripts. This hands-on collaboration enabled us to modulate the CMS effectively, setting a solid foundation for our project.
-
-### 2. OAuth: Simplifying Authentication
-
-- Initially, we considered implementing traditional OAuth, but after a deeper analysis, I realized that this approach would require running a separate authorization proxy server, which was unnecessary for our static site. 
-- To explore this further, I built a prototype of OAuth that required a server. This experiment led to an in-depth discussion on the practicality of OAuth for our use case. Ultimately, we concluded that OAuth was an over-engineered solution for our needs, allowing us to pivot towards a simpler authentication solution using `FaunaDB`.
-
-### 3. Project Structure: Streamlining for Simplicity
-
-- The project underwent significant restructuring. Initially, we used a TurboRepo setup, but after multiple iterations, we simplified it. The final structure included a `build folder` for the Next.js static site and a `src folder` for .agml files and associated data. This streamlined structure made the project more manageable and efficient for the community builder.
-
-### 4. Syntax Parsing: Transitioning from Regex to AST
-
-- Our initial attempt at syntax sweetening using Ripgrep, a Rust-based grep tool and regex proved unreliable. After reconsidering, we switched to `Abstract Syntax Trees (AST)` for parsing .agml. I invested time in learning AST manipulation, eventually adopting the `TypeScript Compiler API`. This allowed us to effectively convert .agml into static Next.js web pages with better accuracy and flexibility.
-
-- Fun fact: AGML stands for `Anjaneya Gupta Markup Language`—a name suggested by my mentor, Sing Li, and named after myself ;)
-
-### 5. Dynamic Data Fetching: Balancing JSON and CMS Data
-
-- Creating a dynamic data-fetching solution that worked with both JSON and CMS data presented challenges. We pondered over multiple approaches to ensure consistency between the two data sources and explored different methods, such as checking build numbers or using a flag during build-time. Prototyping various solutions helped us refine our approach and ensure consistency between data sources, leading to a more reliable and flexible system.
-
-### 5. Bootstrap vs. Tailwind: Choosing a Flexible Framework
-
-- In our front-end development, Bootstrap proved superior to Tailwind for our use case. Bootstrap offers responsive, pre-built components and allows easy CSS overrides through its syntax, reducing code complexity and streamlining development. This efficiency and simplicity made it ideal for our project. I created a `Proof of Concept (POC)` to demonstrate Bootstrap's advantages, which ultimately solidified our decision.
-
-By prototyping early and iterating quickly, I was able to provide clear demonstrations that informed our decisions, making our development process more efficient and focused.
-
-</div>
-
 ## 🚀 Contributions
 
 <div align="center">
@@ -104,6 +69,41 @@ By prototyping early and iterating quickly, I was able to provide clear demonstr
 | [Link](https://github.com/RocketChat/GSoC-Community-Hub/pull/40) | <b> This major PR consolidates all the final changes and features implemented during the project, which underwent continuous and significant transformations over the course of development.  |  <img src="https://user-images.githubusercontent.com/70485812/189489748-ed27630f-36e7-4eb9-a9a4-e082d6894490.png" width=55 height=40>|
 
 </div>
+
+## 🦾 Overcoming Challenges and breaking limits
+
+### 1. Syntax Parsing: Transitioning from Regex to AST
+
+- Our initial attempt at syntax sweetening using Ripgrep, a Rust-based grep tool and regex proved unreliable. After reconsidering, we switched to `Abstract Syntax Trees (AST)` for parsing .agml. I invested time in learning AST manipulation, eventually adopting the `TypeScript Compiler API`. This allowed us to effectively convert .agml into static Next.js web pages with better accuracy and flexibility.
+
+- Fun fact: AGML stands for `Anjaneya Gupta Markup Language`—a name suggested by my mentor, Sing Li, and named after myself ;)
+
+### 2. Dynamic Data Fetching: Balancing JSON and CMS Data
+
+- Creating a dynamic data-fetching solution that worked with both JSON and CMS data presented challenges. We pondered over multiple approaches to ensure consistency between the two data sources and explored different methods, such as checking build numbers or using a flag during build-time. Prototyping various solutions helped us refine our approach and ensure consistency between data sources, leading to a more reliable and flexible system.
+
+### 3. Project Structure: Streamlining for Simplicity
+
+- The project underwent significant restructuring. Initially, we used a TurboRepo setup, but after multiple iterations, we simplified it. The final structure included a `build folder` for the Next.js static site and a `src folder` for .agml files and associated data. This streamlined structure made the project more manageable and efficient for the community builder.
+  
+### 3. OAuth: Simplifying Authentication
+
+- Initially, we considered implementing traditional OAuth, but after a deeper analysis, I realized that this approach would require running a separate authorization proxy server, which was unnecessary for our static site. 
+- To explore this further, I built a prototype of OAuth that required a server. This experiment led to an in-depth discussion on the practicality of OAuth for our use case. Ultimately, we concluded that OAuth was an over-engineered solution for our needs, allowing us to pivot towards a simpler authentication solution using `FaunaDB`.
+
+### 4. Payload CMS vs. Strapi: Opting for Seamless Integration
+
+- We chose `Payload CMS` over Strapi due to its code-first approach and seamless integration with Next.js. Unlike Strapi, which required running in a separate Docker container, Payload CMS allowed us to run everything within our existing Next.js environment.
+- Payload CMS also stood out for its active and helpful community, which played a crucial role during the initial stages. I interacted directly with the core maintainers to implement Payload CMS 3.0 alpha, customizing it to our specific needs with build-time scripts. This hands-on collaboration enabled us to modulate the CMS effectively, setting a solid foundation for our project.
+  
+### 5. Bootstrap vs. Tailwind: Choosing a Flexible Framework
+
+- In our front-end development, Bootstrap proved superior to Tailwind for our use case. Bootstrap offers responsive, pre-built components and allows easy CSS overrides through its syntax, reducing code complexity and streamlining development. This efficiency and simplicity made it ideal for our project. I created a `Proof of Concept (POC)` to demonstrate Bootstrap's advantages, which ultimately solidified our decision.
+
+By prototyping early and iterating quickly, I was able to provide clear demonstrations that informed our decisions, making our development process more efficient and focused.
+
+</div>
+
     
 ## ❤️ Support
 Learned something new today? Reciprocate the love and ⭐ this repo for good karma.
