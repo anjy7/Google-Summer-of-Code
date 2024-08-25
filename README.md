@@ -60,6 +60,7 @@ Implemented features to allow easy modification of layout, colors, and component
 ### Upcoming Feature:
 
 </div>
+
 ## 🚀 Contributions
 
 <div align="center">
