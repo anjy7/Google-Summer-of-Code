@@ -65,6 +65,7 @@ Implemented features to allow easy modification of layout, colors, and component
 
 
 ### Upcoming Feature:
+- A new feature in development will enable users to log in and persist their preferences across sessions. This will use FaunaDB to securely store and retrieve user settings, allowing for a more personalized and consistent user experience ✨
 
 </div>
 
