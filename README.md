@@ -43,11 +43,6 @@ This year's work builds on this framework, making it significantly easier for co
 - Implemented functionality for component creators to define data directly in syntax sweetened declaration files
 - Developed tooling to simplify the integration of dynamic data into static sites
 
-### 4. Customization and Flexibility Improvements
-
-- Enhanced the ability for open-source organizations to create unique and personalized community portals
-Implemented features to allow easy modification of layout, colors, and components to match brand aesthetics and functional requirements
-
 
 ## 📺 Demo 
 ### 1. Syntax Sweetening Framework
@@ -61,11 +56,6 @@ Implemented features to allow easy modification of layout, colors, and component
   
 ### 2. Component Creator Tooling
 - During build-time, if data is specified in the component syntax, it is automatically checked and updated in the database if changes are detected. If data is not specified, it is seamlessly fetched from the database via the CMS API.
-
-### 3. Customization and Flexibility
-- Users can customize the full-stack component features using `styleoverrides`, allowing them to modify default settings like colors, layout, and more for a tailored experience.
-
-
 
 ### Upcoming Feature:
 - A new feature in development will enable users to log in and persist their preferences across sessions. This will use FaunaDB to securely store and retrieve user settings, allowing for a more personalized and consistent user experience ✨
