@@ -52,9 +52,16 @@ Implemented features to allow easy modification of layout, colors, and component
 ## 📺 Demo 
 ### 1. Syntax Sweetening Framework
 
+- Demonstrating the creation of Rocket.Chat Community's Demo Day page using our framework. This process leverages our events full-stack component and navbar component to generate a static website efficiently.
+  
+- Additionally, showcasing the Rocket.Chat Community's GSoC project ideas page created with our framework, which incorporates the gsoc-projects full-stack component and the navbar component to generate a static website.
+
 ### 2. Component Creator Tooling
+- During build-time, if data is specified in the component syntax, it is automatically checked and updated in the database if changes are detected. If data is not specified, it is seamlessly fetched from the database via the CMS API.
 
 ### 3. Customization and Flexibility
+- Users can customize the full-stack component features using styleoverrides, allowing them to modify default settings like colors, layout, and more for a tailored experience.
+
 
 
 ### Upcoming Feature:
