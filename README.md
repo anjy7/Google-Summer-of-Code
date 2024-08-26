@@ -56,6 +56,9 @@ Implemented features to allow easy modification of layout, colors, and component
   
 - Additionally, showcasing the **Rocket.Chat Community's GSoC project ideas** page created with our framework, which incorporates the `gsoc-projects` full-stack component and the `navbar` component to generate a static website.
 
+<a href="https://www.youtube.com/watch?v=ZWbs_hBosy4">
+<img src="http://img.youtube.com/vi/ZWbs_hBosy4/0.jpg">
+  
 ### 2. Component Creator Tooling
 - During build-time, if data is specified in the component syntax, it is automatically checked and updated in the database if changes are detected. If data is not specified, it is seamlessly fetched from the database via the CMS API.
 
